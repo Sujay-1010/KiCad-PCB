@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "10leds_battery")(type "KiCad")(uri "${KIPRJMOD}/10leds_battery.pretty")(options "")(descr ""))
+)
